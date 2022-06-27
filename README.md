@@ -12,6 +12,7 @@ Ted Talks Recommendation System is running on Machine Learning which recommends 
 3. pip install sklearn
 4. pip install matplotlib
 5. pip install seaborn
+6. pip install nltk
 
 # Process
 1. Install Softwares
