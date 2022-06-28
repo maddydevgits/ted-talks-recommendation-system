@@ -13,6 +13,7 @@ Ted Talks Recommendation System is running on Machine Learning which recommends 
 4. pip install matplotlib
 5. pip install seaborn
 6. pip install nltk
+7. pip install streamlit
 
 # Process
 1. Install Softwares
